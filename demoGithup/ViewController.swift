@@ -4,7 +4,7 @@
 //
 //  Created by ninh on 4/10/18.
 //  Copyright © 2018 ninh. All rights reserved.
-//
+//Ngo Bao Ninh
 
 import UIKit
 
